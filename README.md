@@ -18,7 +18,7 @@ SO THAT I can organize and plan my business
 <!-- ## Installation -->
 ## Installation
 
-![https://watch.screencastify.com/v/9Op0JhWkXGvI1p2p97F8](https://watch.screencastify.com/v/9Op0JhWkXGvI1p2p97F8)
+Walkthrough Video: https://watch.screencastify.com/v/9Op0JhWkXGvI1p2p97F8
 
 - node.js
 - npm
